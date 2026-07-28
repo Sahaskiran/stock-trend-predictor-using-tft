@@ -52,6 +52,10 @@ st.write(df.describe())
 
 # =====================
 # Visualizations
+
+
+
+
 # =====================
 st.subheader('Closing Price vs Time')
 fig = plt.figure(figsize=(12, 6))
