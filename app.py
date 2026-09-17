@@ -16,7 +16,7 @@ start = '2010-01-01'
 end = dt.date.today()
 
 # =====================
-# App Title
+# App Title //
 # =====================
 st.title('📈 Stock Trend Prediction (TFT Model)')
 
